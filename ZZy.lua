@@ -1,4 +1,4 @@
--- hide.lat / maximum / d69c31ab7b00
+-- leave you can't🥀🫩
 local LIoioLj00=(getfenv and getfenv(1)) or _ENV or _G
 local Ijl0ioLI1o,ji0LojLji=string.byte,string.char
 local function IIijL0LLL(jl01oI1Ol,j1oOLolIO0)
